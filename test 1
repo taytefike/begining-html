@@ -1,0 +1,43 @@
+
+<html>
+<head>
+	<title> Practice </title>
+</head>
+<body>
+	<div>HELLO WORLD</div>
+	<H1>cooler</H1>
+	<H2>coolest </H2>
+	<h3>cool </h3>
+	<table>
+		<theader>
+			<tr>
+				Awesomeness
+			</tr>
+
+			</theader>
+		<tbody>
+			
+			<tr>
+				<td>Tayte</td>
+				<td>      </td>
+				<td>fike</td>
+			</tr>
+			
+			<tr>
+				<td>Tayte</td>
+				<td>      </td>
+				<td>Fike</td>
+			</tr>
+
+		</tbody>
+		<table border="1">
+
+
+
+	</table>
+	<img src="utes.jpg" Alt="Utah utes photo not found"/>
+	<h2>Link</h2>
+	<a href="http:stackskills.com"></a>
+</body>
+
+</html>
